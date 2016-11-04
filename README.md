@@ -1,26 +1,21 @@
-HiChat
+奈文摩尔
 ===
  
 A chat application built with Node.js and socket.io.
 
-View the live demo: http://hichat.herokuapp.com/
+View the live demo: http://www.billyh.cn:3000
 
 Features
 ---
-* send pictures :sunrise:
-* send emojis :smile:
-* keyboard support :musical_keyboard:
-* online users count statistic :ghost:
+* 图片支持:gif:
+* 表情支持 :smile:
+* 键盘支持 :musical_keyboard:
+* 实时在线人数 :ghost:
 
 How to run
 ---
 1. download the code then extract
-2. run `npm install` from command line window
-3. run `node server` or `iojs server` if you are using [io.js](https://iojs.org/)
-4. finnaly, open your browser and visit `localhost:3000`
-
-教程见博客 http://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html
-
-![blah](https://www.codeship.io/projects/73bd0d90-9897-0131-516c-56598d7b87e5/status)
-
+2. run `npm install` from CMD window
+3. run `node server`
+4. open your browser and visit `localhost:3000`
 
