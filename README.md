@@ -14,8 +14,8 @@ Features
 
 How to run
 ---
-1. download the code then extract
+1. download the zip or git clone the website
 2. run `npm install` from CMD window
-3. run `node server`
+3. run `node server.js`
 4. open your browser and visit `localhost:3000`
 
