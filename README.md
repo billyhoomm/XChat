@@ -3,7 +3,7 @@
  
 A chat application built with Node.js and socket.io.
 
-View the live demo: http://www.billyh.cn:3000
+View the live demo: 待更新
 
 Features
 ---
